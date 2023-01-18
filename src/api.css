@@ -1,0 +1,39 @@
+html {
+  background: url(space.jpg) no-repeat center center fixed;
+  background-color: darkgray;
+  background-size: cover;
+}
+
+#infoBox {
+  border: solid black;
+  margin: 250px 600px 250px 600px;
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.682);
+  box-shadow: white 0px 3px 20px 10px;
+}
+
+#header {
+  text-align: center;
+  color: #ffffff;
+  font-family: sans-serif;
+}
+
+#button {
+  display: block;
+  margin: 0 auto;
+  border-radius: 25px;
+  height: 40px;
+  width: 150px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: small;
+  background-color: #ffffff;
+  border: solid #ffffff;
+}
+
+p {
+  text-align: center;
+  color: #ffffff;
+  font-weight: small;
+  font-family: sans-serif;
+}
